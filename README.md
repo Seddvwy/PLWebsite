@@ -5,8 +5,6 @@ PremierZone is a comprehensive project designed to scrape match statistics for o
 <img width="1407" alt="Screenshot 2024-06-22 at 11 29 13 PM" src="https://github.com/Erik-Cupsa/PLWebsite/assets/86483911/022e82ae-5190-49a4-a15d-87fc8227a579">
 
 You can find the [project here!](https://premierzone.vercel.app/)  
-Note: The backend is currently not being hosted, this will be fixed in one to two business weeks...
-
 ## Features
 
 - **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 700+ players using Python and pandas.
